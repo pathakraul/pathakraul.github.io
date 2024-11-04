@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pathakraul.github.io/sitemap.xml
